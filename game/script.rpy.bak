@@ -201,11 +201,11 @@ label start:
     # GOTO first scene
     scene bg black
 
-    jump logosplash
+#     jump logosplash
 
-#     $chatlist.append("sheep_1014")
-#     call news4 from _call_news4_1
-#     jump mainscreen
+    $chatlist.append("sheep_1014")
+    call news4
+    jump mainscreen
 
 #     $chatlist.append("sheep_1014")
 #     call news4

@@ -1,3 +1,15 @@
+# RenPy files we don't care about
+errors.txt
+log.txt
+tmp/*
+game/cache/*
+game/saves/*
+*.rpyc
+game/*.rpyc
+/game/custom/*.rpyc
+/game/chats/*.rpyc
+/game/emails/*.rpyc
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

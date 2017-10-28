@@ -1,0 +1,21 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/custom/mainscreen.rpy", line 54, in script
+    terminal "Starting mail.app{cps=6}... ... ... {/cps}{nw}"
+Exception: Sayer 'terminal' is not defined.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/custom/mainscreen.rpy", line 54, in script
+    terminal "Starting mail.app{cps=6}... ... ... {/cps}{nw}"
+  File "/Applications/renpy-6.99.12.4-sdk/renpy/ast.py", line 593, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "/Applications/renpy-6.99.12.4-sdk/renpy/ast.py", line 509, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
+Exception: Sayer 'terminal' is not defined.
+
+Darwin-16.7.0-x86_64-i386-64bit
+Ren'Py 6.99.12.4.2187
+> turing 1.0a

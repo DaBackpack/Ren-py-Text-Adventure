@@ -1,1 +1,1 @@
-{"build_update": false, "packages": ["all"], "add_from": true, "force_recompile": true}
+{"build_update": false, "packages": ["mac", "pc"], "add_from": true, "force_recompile": true, "renamed_all": true}

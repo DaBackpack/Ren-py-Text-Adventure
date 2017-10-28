@@ -1,0 +1,10 @@
+Font Credits:
+
+Dotrice (Main Terminal Font):
+http://www.1001fonts.com/dotrice-font.html
+
+Anonymous Pro (Splash Font):
+https://www.marksimonson.com/fonts/view/anonymous-pro
+
+Terminal (Currently Unused):
+https://ufonts.com/download/terminal/90245.html
